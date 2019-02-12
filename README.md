@@ -1,4 +1,3 @@
 # PyCitySchools
-Data dive continues with Python Pandas
 
-Please view PyCitySchools.ipynb for final commit.
+This project analyzed the school district's standardized test results using Python Pandas.
